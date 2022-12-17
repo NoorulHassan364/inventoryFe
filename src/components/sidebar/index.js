@@ -62,11 +62,11 @@ const routes = [
     name: "Raw Material",
     icon: <FontAwesomeIcon icon={faRecycle} />,
   },
-  {
-    path: "/materialinward",
-    name: "Material Inward",
-    icon: <FontAwesomeIcon icon={faArrowUpFromGroundWater} />,
-  },
+  // {
+  //   path: "/materialinward",
+  //   name: "Material Inward",
+  //   icon: <FontAwesomeIcon icon={faArrowUpFromGroundWater} />,
+  // },
   {
     path: "/productionphase",
     name: "Production Phase",
