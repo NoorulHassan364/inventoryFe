@@ -1,0 +1,28 @@
+.purchaseOrder_dropdown{
+    display: flex;
+box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+padding: 1rem;
+}
+.selectclient_dropdown{
+    display: flex;
+box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+padding: 1rem;
+}
+.purchaseOrder_main{
+    margin-top: 1rem;
+}
+.purchase_order_submit_button{
+    margin-top: 1rem;
+    /* margin-right: 3rem; */
+    float: right;
+}
+.table_divss{
+    margin-top: 4rem;
+}
+.selectclient_main{
+    margin-right: 3rem;
+}
+.scroll_bar{
+    
+    /* overflow-x:scroll */
+}

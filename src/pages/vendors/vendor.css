@@ -1,0 +1,14 @@
+.table-divss{
+    width: 100%;
+}
+.Add{
+     float: right;
+    color: skyblue;
+}
+.Edit-icon{
+    color: lightgreen;
+}
+.Delete-btn{
+    color: red;
+    margin-left: 5px;
+}
